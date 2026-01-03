@@ -9,3 +9,6 @@ Customers are segmented besed on income and spending score to support targeted m
 -Matplotlib
 -Seaborn
 -Scikit-learn
+
+## Internship: Oasis Infobyte
+## Domain: Data Analytics
