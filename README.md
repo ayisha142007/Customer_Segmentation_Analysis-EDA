@@ -1,2 +1,11 @@
-# Customer_Segmentation_Analysis-EDA
-Customer segmentation analysis using python and K-Means clustering. This project groups customers based on income and spending behavior to support data-driven maketing decision.
+## Customer Segmentation Analysis
+
+This project analyzez customer behavior using K-Means clustering.
+Customers are segmented besed on income and spending score to support targeted marketing strategies.
+
+## Tools Used:
+-Python 
+-Pandas
+-Matplotlib
+-Seaborn
+-Scikit-learn
